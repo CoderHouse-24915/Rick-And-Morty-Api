@@ -1,0 +1,22 @@
+.nav-container {
+    background-color: black;
+    height: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .nav-ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .li {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+  }
+  
